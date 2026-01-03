@@ -309,7 +309,7 @@ npm install
 
 Bu web scraper ile toplanan veriler, **İzmir İkinci El Araç Fiyat Tahmin Sistemi** projesinde kullanılmıştır:
 
-**Repository:** [github.com/kullaniciadi/car-price-predictor](https://github.com/kullaniciadi/car-price-predictor)
+**Repository:** [github.com/sezeryigitt/car-price-predictor](https://github.com/sezeryigitt/car-price-predictor)
 
 Bu projede:
 - Toplanan veriler temizlenir ve işlenir
