@@ -1,6 +1,3 @@
 node_modules/
 package-lock.json
-test-5-cars-result.json
-testCarResults.csv
-.vscode/
 .DS_Store
